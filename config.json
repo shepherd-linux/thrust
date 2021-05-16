@@ -1,5 +1,66 @@
 {
-    "menu": "hello",
-    "act1": 11,
-    "sddfasd": "sds"
+    "entries": [
+        {
+            "name": "Webinform-Felkövetés 04.20.",
+            "fields": [
+                "end_date",
+                "termination_name",
+                "contact_phone",
+                "notes",
+                "listitem_col01",
+                "listitem_col02",
+                "listitem_col03",
+                "listitem_col04",
+                "listitem_col05",
+                "listitem_col06",
+                "ADATLAP_1",
+                "ADATLAP_2",
+                "ADATLAP_3",
+                "ADATLAP_7",
+                "ADATLAP_5",
+                "ADATLAP_6",
+                "ADATLAP_8",
+                "ADATLAP_9",
+                "ADATLAP_10",
+                "ADATLAP_11",
+                "ADATLAP_12",
+                "ADATLAP_13",
+                "ADATLAP_14",
+                "ADATLAP_15",
+                "ADATLAP_16",
+                "ADATLAP_17"
+            ],
+            "termination_codes": [
+                3,
+                7,
+                15
+            ],
+            "name_field_arg": "listitem_col01"
+        },
+        {
+            "name": "Esküvő Online-Email 04.27.",
+            "fields": [
+                "end_date",
+                "list_name",
+                "contact_name",
+                "contact_phone",
+                "termination_name",
+                "notes",
+                "listitem_col01",
+                "listitem_col02",
+                "listitem_col03",
+                "listitem_col04",
+                "listitem_col05",
+                "listitem_col06",
+                "ADATLAP_1",
+                "ADATLAP_2",
+                "ADATLAP_3",
+                "ADATLAP_4"
+            ],
+            "termination_codes": [
+                3
+            ],
+            "name_field_arg": "listitem_col01"
+        }
+    ]
 }
